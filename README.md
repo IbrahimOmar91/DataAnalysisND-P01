@@ -5,6 +5,19 @@ Advanced Data Analysis NanoDegree Project01: Investigate a Dataset
 I investigated the tmdb-movies dataset to cleaning and wrangling the dataset
 Find the most common genres, actors, directors and production companies, what movie, actor, director, company, genre and year has the most revenue and how columns are correlated to each other’s
 
+* In this project I'm going through the tmdb dataset analysis
+* Doing this i will try to answer the following questions:
+  * 1- What are the most common genres?
+  * 2- What are the most working production companies?
+  * 3- Which actors contributed most in the movies?
+  * 4- Who Directed the most ?
+  * 5- How data columns are correlated to each other?
+  * 6- What movie has the highest and the lowest budget, revenue, popularity, runtime and vote_average?
+  <br><br>
+
+* I will depend mostly on visual representation of my findings
+
+
 
 ## Conclusion:
 * Most produced Genres in order are Drama, Comedy, Thriller, Action and Romance.
