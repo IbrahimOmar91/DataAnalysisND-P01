@@ -2,9 +2,6 @@
 Advanced Data Analysis NanoDegree Project01: Investigate a Dataset
 
 ## Introduction:
-I investigated the tmdb-movies dataset to cleaning and wrangling the dataset
-Find the most common genres, actors, directors and production companies, what movie, actor, director, company, genre and year has the most revenue and how columns are correlated to each other’s
-
 * In this project I'm going through the tmdb dataset analysis
 * Doing this i will try to answer the following questions:
   * 1- What are the most common genres?
